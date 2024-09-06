@@ -1,5 +1,6 @@
 # shadow (shallow distance learning)
 
+Checkout initial visualizations here: https://pixel-interactive.streamlit.app/
 A causal model-agnostic library for identifying important parts in image, text and multi-modal data (in alpha development).
 If you want to know how much data is enough, use this library!
 
